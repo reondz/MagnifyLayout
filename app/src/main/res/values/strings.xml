@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">magnify</string>
+
+    <string name="hello_world">PerfHUD ES provides in-depth analysis of OpenGL ES applications on Tegra based devices. In order to target optimizations where they are most needed, developers are given access to GPU performance and bottleneck information. The debugging capabilities provide insight into the state of the OpenGL ES pipeline, related textures and shaders, and all rendering states to help find the causes for improper setup and rendering anomalies.</string>
+</resources>
